@@ -52,7 +52,7 @@ This project turns raw ER visit data into a decision-ready dashboard, answering 
 
 ## 🚀 How to Use
 
-1. Download `PD-Portfolio_Dashboard.xlsx` and open it in Microsoft Excel (desktop version recommended for slicers).
+1. Download `PD-Portfolio Dashboard.xlsx` and open it in Microsoft Excel (desktop version recommended for slicers).
 2. Go to the **Dashboard** sheet.
 3. Use the **Year** and **Month** slicers to filter all KPIs and charts.
 4. The **Pivot Report** sheet holds the PivotTables behind each visual.
