@@ -17,7 +17,7 @@ This project turns raw ER visit data into a decision-ready dashboard, answering 
 
 ## 📁 Dataset
 
-`Hospital_Emergency_Room_Data.csv` — 9,216 patient records with the following fields:
+`Hospital Emergency Room Data.csv` — 9,216 patient records with the following fields:
 
 | Column                     | Description                                   |
 | -------------------------- | --------------------------------------------- |
